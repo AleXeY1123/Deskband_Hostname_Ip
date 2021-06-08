@@ -11,7 +11,7 @@ Build Deskband_Hostname_Ip.dll with the provided solution.
 
 ## Install
 
-Register the dll by running `regsvr32 Deskband_Hostname_Ip.dll` from an elevated command prompt.
+Register the dll by running `regsvr32 Deskband_Hostname_Ip_64.dll` or `regsvr32 Deskband_Hostname_Ip_32.dll` from an elevated command prompt.
 
 ## Run
 
@@ -21,4 +21,4 @@ Note: The sample may not appear until you open the Toolbars menu the second time
 
 ## Uninstall
 
-Unregister the sample by running `regsvr32 /u DeskBandSDKSample.dll` from an elevated command prompt.
+Unregister the sample by running `regsvr32 /u Deskband_Hostname_Ip_64.dll` or `regsvr32 /u Deskband_Hostname_Ip_32.dll` from an elevated command prompt.
