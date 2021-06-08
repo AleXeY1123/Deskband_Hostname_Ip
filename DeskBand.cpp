@@ -5,11 +5,7 @@
 #pragma comment (lib, "ws2_32.lib")
 #include <stdio.h>
 #include <stdlib.h>
-//#include <winsock2.h>
-//#include <winsock.h>
-//#include <ws2tcpip.h>
 #include <iostream>
-//#include <conio.h>
 #include <shlwapi.h>
 
 using namespace std;
