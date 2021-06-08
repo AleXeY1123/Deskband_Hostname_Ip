@@ -1,6 +1,6 @@
 # Deskband_Hostname_Ip
 
-Displaying the computer name and Ip-address on the daskband.
+Displaying the hostname and Ip-address on the daskband.
 
 ## Original
 https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/winui/shell/shellextensibility/deskbands
