@@ -1,16 +1,3 @@
----
-page_type: sample
-languages:
-- cpp
-products:
-- windows-api-win32
-urlFragment: DeskBands
-extendedZipContent:
-- path: LICENSE
-  target: LICENSE
-description: "A simple taskbar band."
----
-
 # DeskBand sample
 
 A simple taskbar band which illustrates the use of the different DeskBand APIs to create a custom desk band.
