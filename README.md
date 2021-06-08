@@ -1,18 +1,21 @@
-# DeskBand sample
+# Deskband_Hostname_Ip
 
-A simple taskbar band which illustrates the use of the different DeskBand APIs to create a custom desk band.
+Displaying the computer name and Ip-address on the daskband.
+
+## Original
+https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/winui/shell/shellextensibility/deskbands
 
 ## Build
 
-Build DeskBandSDKSample.dll with the provided solution.
+Build Deskband_Hostname_Ip.dll with the provided solution.
 
 ## Install
 
-Register the sample by running `regsvr32 DeskBandSDKSample.dll` from an elevated command prompt.
+Register the dll by running `regsvr32 Deskband_Hostname_Ip.dll` from an elevated command prompt.
 
 ## Run
 
-Right-click on the Task Bar, expand "Toolbars" menu option and choose "DeskBand Sample".  You will see the newly created Desk Band show up on the Task Bar.
+Right-click on the Task Bar, expand "Toolbars" menu option and choose "Deskband Hostname Ip".  You will see the newly created Desk Band show up on the Task Bar.
 
 Note: The sample may not appear until you open the Toolbars menu the second time.
 
